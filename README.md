@@ -46,6 +46,6 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 </details>
 ![picture]()
 
-<img align="left" alt="Apurv's Leetcode" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)"/>
+<img align="left" alt="Apurv's Leetcode" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
 
 Leave a ⭐️ if you like this template and want to modify it for yourself!
