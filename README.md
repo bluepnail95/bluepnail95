@@ -38,15 +38,13 @@ Do visit my Medium page where I ocassioanlly publish about my experiences explor
 <br />
 <br />
 <details>
-<summary>
   Projects I am currently working on
-</summary>
 
  
 
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 </details>
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
 
